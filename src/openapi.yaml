@@ -153,10 +153,10 @@ paths:
               properties:
                 email:
                   type: string
-                  example: alice@example.com
+                  example: alice.watcher@movietracker.dev
                 password:
                   type: string
-                  example: User123!
+                  example: F1lm$Fan2026!
       responses:
         '200':
           description: Login successful
